@@ -5,6 +5,7 @@ public class BTest {
 		// TODO Auto-generated method stub
 		System.out.println("ù��° Ŀ��");
 		System.out.println("두번째 커밋");
+		System.out.println("두번째 커밋 Btest");
 	}
 
 }
